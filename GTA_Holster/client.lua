@@ -43,39 +43,41 @@ Citizen.CreateThread(function()
         end
       end
 
-      if weaponFound then 
-        loadAnimDict(dictFound)
+      if GetPedParachuteState(ped) < 1 then 
+        if weaponFound then 
+          loadAnimDict(dictFound)
 
-        if holstered then
-          TaskPlayAnim(ped, dictFound, animBegin, 5.0, 1.0, timerBegin, flags)
-          
-          Citizen.Wait(timer_to_wait_begin)
-          
-          Citizen.CreateThread( function()
-            while holstered do
-              Citizen.Wait(0)
-              DisablePlayerFiring(GetPlayerPed(-1),true)
-            end
-          end)
+          if holstered then
+            TaskPlayAnim(ped, dictFound, animBegin, 5.0, 1.0, timerBegin, flags)
+            
+            Citizen.Wait(timer_to_wait_begin)
+            
+            Citizen.CreateThread( function()
+              while holstered do
+                Citizen.Wait(0)
+                DisablePlayerFiring(GetPlayerPed(-1),true)
+              end
+            end)
 
-          ClearPedTasks(ped)
-          holstered = false
-        end
-      else
-        if not holstered then
-          TaskPlayAnim(ped, dictFound, animEnd, 8.0, 1.0, timerEnd, flags)
-          
-          Citizen.Wait(timer_to_wait_end)
+            ClearPedTasks(ped)
+            holstered = false
+          end
+        else
+          if not holstered then
+            TaskPlayAnim(ped, dictFound, animEnd, 8.0, 1.0, timerEnd, flags)
+            
+            Citizen.Wait(timer_to_wait_end)
 
-          Citizen.CreateThread( function()
-            while not holstered do
-              Citizen.Wait(0)
-              DisablePlayerFiring(GetPlayerPed(-1),true)
-            end
-          end)
+            Citizen.CreateThread( function()
+              while not holstered do
+                Citizen.Wait(0)
+                DisablePlayerFiring(GetPlayerPed(-1),true)
+              end
+            end)
 
-          ClearPedTasks(ped)
-          holstered = true
+            ClearPedTasks(ped)
+            holstered = true
+          end
         end
       end
       Citizen.Wait(timerOpti)
