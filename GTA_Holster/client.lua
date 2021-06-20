@@ -43,7 +43,7 @@ Citizen.CreateThread(function()
         end
       end
 
-      if GetPedParachuteState(ped) < 1 then 
+      if GetPedParachuteState(ped) < 1 and not IsPedInParachuteFreeFall(ped) then 
         if weaponFound then 
           loadAnimDict(dictFound)
 
