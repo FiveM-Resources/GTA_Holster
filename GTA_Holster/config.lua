@@ -12,7 +12,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -23,7 +23,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -34,7 +34,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -45,7 +45,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -56,7 +56,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -67,7 +67,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -78,7 +78,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -89,7 +89,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -100,7 +100,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -111,7 +111,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -122,7 +122,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -133,7 +133,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -144,7 +144,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -155,7 +155,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -166,7 +166,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -177,7 +177,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -188,7 +188,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -201,7 +201,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -212,7 +212,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -223,7 +223,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -234,7 +234,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -245,7 +245,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -256,7 +256,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -267,7 +267,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -278,7 +278,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -289,7 +289,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -300,7 +300,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -311,7 +311,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -322,7 +322,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -333,7 +333,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -344,7 +344,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -355,7 +355,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -366,7 +366,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -377,7 +377,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "outro",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 1700,
         ["Timer_To_Wait_End"] = 1500
     },
@@ -390,7 +390,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "unholster",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 600,
         ["Timer_To_Wait_End"] = 150
     },
@@ -401,7 +401,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "unholster",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 600,
         ["Timer_To_Wait_End"] = 150
     },
@@ -412,7 +412,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "unholster",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 600,
         ["Timer_To_Wait_End"] = 150
     },
@@ -423,7 +423,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "unholster",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 600,
         ["Timer_To_Wait_End"] = 150
     },
@@ -434,7 +434,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "unholster",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 600,
         ["Timer_To_Wait_End"] = 150
     },
@@ -445,7 +445,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "unholster",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 600,
         ["Timer_To_Wait_End"] = 150
     },
@@ -456,7 +456,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "unholster",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 600,
         ["Timer_To_Wait_End"] = 150
     },
@@ -467,7 +467,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "unholster",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 600,
         ["Timer_To_Wait_End"] = 150
     },
@@ -478,7 +478,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "unholster",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 600,
         ["Timer_To_Wait_End"] = 150
     },
@@ -489,7 +489,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "unholster",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 600,
         ["Timer_To_Wait_End"] = 150
     },
@@ -500,7 +500,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "unholster",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 600,
         ["Timer_To_Wait_End"] = 150
     },
@@ -511,7 +511,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "unholster",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 600,
         ["Timer_To_Wait_End"] = 150
     },
@@ -522,7 +522,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "unholster",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 600,
         ["Timer_To_Wait_End"] = 150
     },
@@ -533,7 +533,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "unholster",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 600,
         ["Timer_To_Wait_End"] = 150
     },
@@ -544,7 +544,7 @@ weapons_listed = {
         ["timerBegin"] = -1,
         ["animEnd"] = "unholster",
         ["timerEnd"] = -1,
-        ["flags"] = 30,
+        ["flags"] = 120,
         ["Timer_To_Wait_Begin"] = 600,
         ["Timer_To_Wait_End"] = 150
     },
